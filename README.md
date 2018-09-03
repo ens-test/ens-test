@@ -65,23 +65,26 @@ Expected output:
 
 ```
 Using ENSRegistry at 0x...
+...
 this(Registrar).config:
 { ensAddress: '0x...' }
 Network: mainnet
 Initializing a new JSON wallet - test-ethers-ens-account.json
 Keep this password and file SAFE!! If lost or forgotten
 it CANNOT be recovered, by ANYone, EVER.
-Account Password: ...
-Confirm Password: ...
+Account Password: ***
+Confirm Password: ***
 New account address: 0x...
 this(Registrar).config:
 { ensAddress: '0x...' }
 Network: mainnet
 kevinzchn.eth
-  State:                not-yet-available
-  Available Start Date: 2018-09-03 19:34:07 (2:22 ago)
+  State:                open
+  Available Start Date: 2018-09-03 19:42:26 (1:21 ago)
 this(Registrar).config:
 { ensAddress: '0x...' }
 Network: mainnet
-  Error: name not available until 2018-09-03 19:34:07 (2:27 ago)
+Account Password: ***
+(node:9241) UnhandledPromiseRejectionWarning: Error: sender doesn't have enough funds to send tx. The upfront cost is: 30000000000000000 and the sender's account only has: 0
+...
 ```
