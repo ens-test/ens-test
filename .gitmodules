@@ -1,0 +1,15 @@
+[submodule "subs/ens"]
+	path = subs/ens
+	url = git@github.com:ens-test/ens
+[submodule "subs/metamask-extension"]
+	path = subs/metamask-extension
+	url = git@github.com:ens-test/metamask-extension
+[submodule "subs/pet-shop"]
+	path = subs/pet-shop
+	url = git@github.com:ens-test/pet-shop
+[submodule "subs/ens-app"]
+	path = subs/ens-app
+	url = git@github.com:ens-test/ens-app
+[submodule "subs/ethers-ens"]
+	path = subs/ethers-ens
+	url = git@github.com:ens-test/ethers-ens
