@@ -2,6 +2,13 @@
 
 ## Instructions
 
+### Init and update submodules
+
+``` bash
+git submodule init
+git submodule update
+```
+
 ### Modify 10_export.sh
 
 Pro-tip: you can create a new 10_export_DO_NOT_TRACK.sh if you want to
